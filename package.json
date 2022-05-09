@@ -1,0 +1,14 @@
+{
+  "name": "xy-mall-docs",
+  "version": "1.0.0",
+  "author": "xuanyu",
+  "description": "xy-mall-docs文档",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.6.10"
+  }
+}
